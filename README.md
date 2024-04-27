@@ -32,3 +32,8 @@ pip install opencv-python pillow pytesseract
 3. Alternatively, click on the "Capture From Camera" button to capture an image using your camera.
 4. Click on the "Perform OCR" button to initiate the OCR process.
 5. The recognized text will be displayed in the text box below the image.
+
+## Expected Updates
+1. Manual region selection.
+2. Enhanced accuracy.
+3. Better image preview.
