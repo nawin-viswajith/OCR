@@ -8,7 +8,7 @@ import pytesseract
 class OCRApplication:
     def __init__(self, root):
         self.root = root
-        self.root.title("Handwritten Text Recognition")
+        self.root.title("OCR Text Recognition")
 
         self.image_label = tk.Label(root)
         self.image_label.pack()
